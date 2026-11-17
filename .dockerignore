@@ -1,0 +1,12 @@
+target
+.git
+.gitignore
+.github
+.idea
+.vscode
+*.iml
+startup-error.txt
+HELP.md
+README.md
+
+src/main/resources/application-local.properties
